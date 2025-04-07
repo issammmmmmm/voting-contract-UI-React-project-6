@@ -38,4 +38,4 @@ All steps are shown in this screen-recorded demo:
   - `totalVotesFor(string candidate)`
   - `getCandidates()`
 
-Contract address:  
+Contract address:  0x378974478f486568C731Cef14a2f6C50751fB116
